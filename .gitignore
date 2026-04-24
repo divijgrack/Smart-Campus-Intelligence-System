@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+env311/
+venv/
+
+# Logs
+*.log
+
+# Local databases
+chroma_db/
+
+# Environment variables (secrets)
+.env
+
+# Optional: ignore dataset images but keep folder
+data/student_photos/*
+!data/student_photos/.gitkeep
