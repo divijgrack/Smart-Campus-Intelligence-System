@@ -52,3 +52,4 @@ A Generative AI-powered smart campus system that integrates Computer Vision, Vec
 ```bash
 git clone https://github.com/yourusername/Smart-Campus-Intelligence-System.git
 cd Smart-Campus-Intelligence-System
+nano README.md
